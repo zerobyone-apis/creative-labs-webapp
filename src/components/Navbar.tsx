@@ -13,7 +13,7 @@ export const Navbar = () => {
   <span>Link2 /</span>  
   <span>Link3 /</span>
   <span>Link4 /</span>  
-  <span>Link5</span>
+  <span>Link5 </span>
 
   </nav>
     
